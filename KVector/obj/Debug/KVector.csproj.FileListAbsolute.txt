@@ -1,0 +1,4 @@
+D:\Epam Labs\FirstPracticalTasks\MyClassVektor\KVector\bin\Debug\KVector.dll
+D:\Epam Labs\FirstPracticalTasks\MyClassVektor\KVector\bin\Debug\KVector.pdb
+D:\Epam Labs\FirstPracticalTasks\MyClassVektor\KVector\obj\Debug\KVector.dll
+D:\Epam Labs\FirstPracticalTasks\MyClassVektor\KVector\obj\Debug\KVector.pdb

@@ -1,0 +1,13 @@
+D:\Epam Labs\FirstPracticalTasks\MyClassArray\TestMyClassArray\TestMyClassArray\bin\Release\TestMyClassArray.exe.config
+D:\Epam Labs\FirstPracticalTasks\MyClassArray\TestMyClassArray\TestMyClassArray\bin\Release\TestMyClassArray.exe
+D:\Epam Labs\FirstPracticalTasks\MyClassArray\TestMyClassArray\TestMyClassArray\bin\Release\TestMyClassArray.pdb
+D:\Epam Labs\FirstPracticalTasks\MyClassArray\TestMyClassArray\TestMyClassArray\bin\Release\KVector.dll
+D:\Epam Labs\FirstPracticalTasks\MyClassArray\TestMyClassArray\TestMyClassArray\bin\Release\logger.dll
+D:\Epam Labs\FirstPracticalTasks\MyClassArray\TestMyClassArray\TestMyClassArray\bin\Release\Newtonsoft.Json.dll
+D:\Epam Labs\FirstPracticalTasks\MyClassArray\TestMyClassArray\TestMyClassArray\bin\Release\KVector.pdb
+D:\Epam Labs\FirstPracticalTasks\MyClassArray\TestMyClassArray\TestMyClassArray\bin\Release\logger.pdb
+D:\Epam Labs\FirstPracticalTasks\MyClassArray\TestMyClassArray\TestMyClassArray\bin\Release\logger.dll.config
+D:\Epam Labs\FirstPracticalTasks\MyClassArray\TestMyClassArray\TestMyClassArray\bin\Release\Newtonsoft.Json.xml
+D:\Epam Labs\FirstPracticalTasks\MyClassArray\TestMyClassArray\TestMyClassArray\obj\Release\TestMyClassArray.csprojResolveAssemblyReference.cache
+D:\Epam Labs\FirstPracticalTasks\MyClassArray\TestMyClassArray\TestMyClassArray\obj\Release\TestMyClassArray.exe
+D:\Epam Labs\FirstPracticalTasks\MyClassArray\TestMyClassArray\TestMyClassArray\obj\Release\TestMyClassArray.pdb
